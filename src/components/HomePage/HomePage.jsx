@@ -1,6 +1,3 @@
-// import "tailwindcss/tailwind.css";
-import "./HomePage.css"
-
 import React from 'react';
 import { Link, Outlet } from "react-router-dom";
 
